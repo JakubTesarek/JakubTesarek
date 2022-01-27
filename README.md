@@ -79,6 +79,20 @@
 - **Czech:** Native language
 - **English:** Fluent
 
+## Education
+
+### [České vysoké učení technické v Praze](https://www.cvut.cz/en)
+
+**Web Development** (September 2008 - June 2010)
+
+> Bachelor programm focused of software and web development. I interrupted my study without graduation to focus on my carreer.
+
+### [Gymnázium Opatov](https://gymnazium-opatov.cz/)
+
+**Grammer school** (September 2000 - June 2008)
+
+> I studied programm with focus on mathematics and IT
+
 ## Interrests
 
 - **Motorcycles**: I have a drivers licence for cars (B) and all motorcycles (A).
