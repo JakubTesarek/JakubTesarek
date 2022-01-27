@@ -2,8 +2,6 @@
 
 > I'm a backend engineer working mainly with Python. But I'm a fast learner and I'm open to all stacks.
 
-![Jakub Tesárek profile picture](https://raw.githubusercontent.com/JakubTesarek/JakubTesarek/master/profile-picture-small.png "Jakub Tesárek profile picture")
-
 ## Contacts
 
 - Email: jakub@tesarek.me
