@@ -78,4 +78,4 @@
 
 - **Motorcycles**: I have a drivers licence for cars (B) and all motorcycles (A).
 - **Guns**: I have a concealed carry permit.
-- **Kickbox**: My amateur record so far is 1-0.
+- **Kickbox**: My amateur record so far is [1-0](https://www.youtube.com/watch?v=UFg4rJcoZ6Y).
