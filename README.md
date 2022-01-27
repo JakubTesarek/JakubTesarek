@@ -74,6 +74,11 @@
 | PHP        | Git  | SVN | JavaScript |
 | JQuery     | HTML | XML |            |
 
+## Languages
+
+- **Czech:** Native language
+- **English:** Fluent
+
 ## Interrests
 
 - **Motorcycles**: I have a drivers licence for cars (B) and all motorcycles (A).
