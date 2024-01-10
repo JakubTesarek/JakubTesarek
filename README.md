@@ -1,6 +1,6 @@
 # Jakub Tesárek
 
-> I'm a backend engineer working mainly with Python. But I'm a fast learner and I'm open to all stacks.
+> I'm a backend engineer working mainly with Python. But I'm a fast learner, and I'm open to all stacks.
 
 ## Contacts
 
@@ -12,23 +12,26 @@
 
 ## Work Experience
 
-### [LMC s.r.o.](https://www.lmc.eu/)
+### [LMC s.r.o. (AlmaCareer)](https://www.almacareer.com/)
 
-**Lead Software Engineer** (March 2020 - now)
+**Lead Software Engineer** (March 2020 - February 2024)
 
 > Designing, developing and managing high availability and high throughput applications using Python. Combining optimisation with AI algorithms.
 
 - Managed team of programmers developing AI-powered services.
 - Started a monthly meetup of Python enthusiasts - Python Lovers.
-- Developed and operated new search and emailing software for Jobs.cz.
-- Developed REST API mocking framework - Trickster.
-- Developed framework for rapid prototyping of Datascience experiments - Multitool.
+- Developed and operated new search and emailing service all jobboards in the AlmaCareer portfolio.
+- Developed REST API mocking framework - [Trickster](https://github.com/TricksterOrg/trickster).
+- Developed framework for rapid prototyping of datascience experiments - Multitool.
+
+
 
 | Tech Stack |         |              |           |
 |------------|---------|--------------|-----------|
 | Docker     | Swarm   | Apache Kafka | Python 3  |
 | Flask      | Tornado | MongoDb      | Aerospike |
 | Nexus      | Airflow | Git          | PHP       |
+| FastApi    |         |              |           |
 
 
 ### [SAP Concur](https://www.concur.com/)
@@ -39,8 +42,8 @@
 
 - Managed project of building GraphQL API layer for Concur Mobile.
 - Built User Directory - Service for handling of user profiles and authentication.
-- Built a REST API for Tripit - Booking and flight tracking Mobile app.
-- Built an backend for mobile app for receipt scanning and parsing - ExpenseIt.
+- Built a REST API for TripIt - Booking and flight tracking Mobile app.
+- Built a backend for mobile app for receipt scanning and parsing - ExpenseIt.
 
 | Tech Stack |         |            |          |
 |------------|---------|------------|----------|
@@ -64,9 +67,9 @@
 
 **Head of R&D** (November 2010 - September 2013)
 
-> I've lead a team of developers building a system for Shoptet online stores.
+> I've leaded a team of developers building a system for Shoptet online stores.
 
-- My team build the platform for Shoptet online stores.
+- My team built the platform for Shoptet online stores.
 
 
 | Tech Stack |      |     |            |
@@ -85,16 +88,10 @@
 
 **Web Development** (September 2008 - June 2010)
 
-> Bachelor programm focused of software and web development. I interrupted my study without graduation to focus on my carreer.
+> Bachelor program focused on software and web development. I interrupted my study without graduation to focus on my career.
 
 ### [Gymnázium Opatov](https://gymnazium-opatov.cz/)
 
 **Grammer school** (September 2000 - June 2008)
 
-> I studied programm with focus on mathematics and IT
-
-## Interrests
-
-- **Motorcycles**: I have a drivers licence for cars (B) and all motorcycles (A).
-- **Guns**: I have a concealed carry permit.
-- **Kickbox**: My amateur record so far is [1-0](https://www.youtube.com/watch?v=UFg4rJcoZ6Y).
+> I studied program with focus on mathematics and IT
