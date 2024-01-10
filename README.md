@@ -1,6 +1,9 @@
 # Jakub Tesárek
 
-> I'm a backend engineer working mainly with Python. But I'm a fast learner, and I'm open to all stacks.
+
+| ![Profile picture of Jakub Tesárek](profile-picture-small.png) | I'm a backend engineer and team leader working mainly with Python. But I'm a fast learner and I'm open to all stacks. |
+|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+
 
 ## Contacts
 
