@@ -12,6 +12,13 @@
 
 ## Work Experience
 
+### [Qminers](https://qminers.com/)
+
+**Python developer lead** (February 2024 - now)
+
+> Leading py-dev team and all related development responsibilities
+
+
 ### [LMC s.r.o. (AlmaCareer)](https://www.almacareer.com/)
 
 **Lead Software Engineer** (March 2020 - February 2024)
