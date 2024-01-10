@@ -36,12 +36,13 @@
 
 
 
-| Tech Stack |         |              |           |
-|------------|---------|--------------|-----------|
-| Docker     | Swarm   | Apache Kafka | Python 3  |
-| Flask      | Tornado | MongoDb      | Aerospike |
-| Nexus      | Airflow | Git          | PHP       |
-| FastApi    |         |              |           |
+| Tech Stack |             |              |                    |
+|------------|-------------|--------------|--------------------|
+| Docker     | Swarm       | Apache Kafka | Python 3           |
+| Flask      | Tornado     | MongoDb      | Aerospike          |
+| Nexus      | Airflow     | Git          | PHP                |
+| Ansible    | FastApi     | AWS CDK      | AWS S3             |
+| AWS Lambda | AWS Fargate | AWS DynamoDb | other AWS services |
 
 
 ### [SAP Concur](https://www.concur.com/)
@@ -102,6 +103,22 @@
 
 ### [Gymnázium Opatov](https://gymnazium-opatov.cz/)
 
-**Grammer school** (September 2000 - June 2008)
+**Grammar school** (September 2000 - June 2008)
 
 > I studied program with focus on mathematics and IT
+
+
+### Opensource Projects
+- [Trickster](https://github.com/TricksterOrg/trickster): Python service for mocking Rest APIs to simplify testing and development.
+- [Matej Client](https://github.com/lmc-eu/matej-client-php): PHP client for MatejAI recommendation engine.
+- [Pydantic Mongo ORM](https://github.com/JakubTesarek/pydantic_mongo_orm): Pydantic Mongo ORM is a library that allows users to map Pydantic models to MongoDb.
+- [DBGR](https://github.com/JakubTesarek/dbgr): Terminal application to automate and simplify working with various APIs.
+- [Priority Queue](https://github.com/JakubTesarek/priority_queue): Python implementation of thread-safe priority queue with items merging.
+- [Wordle Solver](https://github.com/JakubTesarek/wordle_solver): Automated solver for [Wordle](https://www.nytimes.com/games/wordle/index.html) puzzle. [Video](https://www.youtube.com/watch?v=MVNorXKOip8)
+
+### Public Talks and articles
+- [Power of metaclasses](https://github.com/JakubTesarek/power-of-metaclasses): *(EN, Python)* Slides and code to a presentation about using metaclasses in Python.
+- [Working with Data-Scientists: Survival guide](https://www.youtube.com/watch?v=t7Ot4EDUt04): *(EN, Video)*  Recording of my 2023 PyCon talk about my experience working with Data-Scientists.
+- [Datový typ ENUM v PHP](https://zdrojak.cz/clanky/datovy-typ-enum-v-php/): *(CZ, PHP)* Article on Zdrojak.cz about Enums in PHP
+- [Technický dluh](https://zdrojak.cz/clanky/technicky-dluh/): *(CZ)* Article on Zdrojak.cz about technical debt.
+- [Dependency injection](https://zdrojak.cz/clanky/dependency-injection-a-metody-globalniho-prostoru-v-php/): *(CZ, PHP)* Acticle on Zdrojak.cz about dependency injection and inversion of control in PHP.
