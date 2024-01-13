@@ -1,8 +1,9 @@
 # Jakub Tesárek
 
-
-| ![Profile picture of Jakub Tesárek](profile-picture-small.png) | I'm a backend engineer and team leader working mainly with Python. But I'm a fast learner and I'm open to all stacks. |
-|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+> With 16 years of experience in software engineering, I have cultivated a diverse skill set, specializing in Python for the past decade while also proficient in various other tech stacks.
+Throughout my career, I have successfully led multiple engineering teams, consistently achieving noteworthy results.
+I always focused not only on high team performance but also positive work environment and mentoring of individual developers.
+Bridging the gap between data scientists and engineers has been one of my strengths, showcasing my ability to facilitate seamless collaboration between different teams.
 
 
 ## Contacts
@@ -11,7 +12,7 @@
 - Phone: +420 721 812 945
 - [Website](https://github.com/JakubTesarek)
 - [Github](https://github.com/JakubTesarek)
-- [Linkedin](https://www.linkedin.com/in/jakubtesarek/)
+- [LinkedIn](https://www.linkedin.com/in/jakubtesarek/)
 
 ## Work Experience
 
@@ -20,6 +21,11 @@
 **Python developer lead** (February 2024 - now)
 
 > Leading py-dev team and all related development responsibilities
+
+- Responsible for the whole Python codebase
+- Architecture and development of a research framework
+- Updating the technology stack and bringing in new technologies
+- Team development
 
 
 ### [LMC s.r.o. (AlmaCareer)](https://www.almacareer.com/)
